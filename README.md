@@ -1,4 +1,4 @@
-# INCUBATOR-DTA-FISSY-project-
+Dr# INCUBATOR-DTA-FISSY-project-
 ## documentation
 ## PROJECT OUTLINE
 ---
@@ -12,10 +12,12 @@ the primary data source is kaggle.com and this is an open source data that can b
 - Microsoft power BI **[Download here](https://microsoft.com)**
 - Phyton **[Download here](https://phyton.org)**
 ```
-Data
+
 
 ```
 ![](IMG_20240527_120829_699.jpg)
-
+|Heading1 |Heading 2|Heading 3|
+|---------|---------|---------|
+|Data 1| Data 2| Data 3|
 
 
